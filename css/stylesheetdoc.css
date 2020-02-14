@@ -1,0 +1,279 @@
+.imagedoc{
+margin: 15px;
+width: 50%;
+}
+.ligneone{
+    display: flex;
+    list-style: none;
+    width: 20%;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-size: large;
+}
+
+
+.ligneone a{
+
+text-decoration : none
+
+}
+.plannerone{
+    display: flex;
+    
+}
+.main-content{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+}
+.imagedoc2{
+    align-self: center;
+
+}
+.titreone{
+    align-self: center;
+
+}
+.textone{
+    align-self: center;
+    display: flex;
+    left: 200px;
+    top: 80px;
+    line-height: 1.75;
+    font-weight: 400;
+}
+.patient{
+    background-color: #00b39b;
+    width: 30%;
+    border-radius: 10px;
+    line-height: 1.3;
+    height: 350px;
+    font-size: x-large;
+    margin: 10px;
+    padding: 30px;
+}
+.patient{
+   
+}
+.doctors{
+    background-color: #3d83df;;
+    width: 30%;
+   box-sizing: inherit;
+   border-radius: 10px;
+   line-height: 1.3;
+   font-size: x-large;
+   margin: 10px;
+   padding: 30px;
+}.container{
+    display: flex;
+    justify-content: center;
+}
+/* .container{
+    display: flex;
+    position: relative;
+    left: 250px;
+    top: 130px; }*/
+
+.svgtitre{
+    display: flex;
+    
+
+    
+}  
+.svgone{
+
+}
+.lasttitreone{
+    width: 180px;
+    padding: 0px 230px;
+}  
+}
+.svgone{
+
+}
+/* .svgone{
+    position: absolute;
+    left: 550px;
+    top: 214%;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px; */
+}
+.nav-buttons{
+    background-color: white;
+    width: 100%;
+    height: 20%%;
+    border-radius: 10px;
+    
+}
+.three{
+    background-color: #e5faf8;
+    position: relative;
+    
+}
+.words{
+    position: relative;
+    left: 10%;
+    background-color: #e5faf8;
+    width: 30%;
+    padding: 20px 0px;
+}
+.box1{
+    font-size: small;
+    width: 12%;
+    position: absolute;
+    background-color: white;
+    left: 50%;
+    top: 10%;
+    height: 40%;
+    border-radius: 10px;
+}
+.box2{
+    font-size: small;
+    border: mintcream;
+    width: 12%;
+    position: absolute;
+    background-color: white;
+    left: 65%;
+    top: 5%;
+    height: 30%;
+    margin: 10px;
+    padding: 30px;
+    border-radius: 10px;
+}
+.box3{
+    font-size: small;
+    border: mintcream;
+    width: 13%;
+    position: absolute;
+    background-color: white;
+    left: 50%;
+    top: 55%;
+    height: 40%;
+    border-radius: 10px;
+}
+.box4{
+    font-size: small;
+    border: mintcream;
+    width: 12%;
+    position: absolute;
+    background-color: white;
+    width: 13%;
+    left: 67%;
+    top: 57%;
+    height: 40%;
+    border-radius: 10px;
+}
+.titrelast{
+justify-content: center;
+padding: 30px 600px;
+}
+.image1{
+    border-radius: 10px;
+
+}
+
+
+.btn{
+    margin-left: 165px;
+    background-color: #1662c6;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+.picone{
+    width: 315px
+}
+
+   
+.btn2{
+    margin-left: 165px;
+    background-color: #1662c6;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+.image2{
+    border-radius: 10px;
+}
+.pictwo{
+    
+    width: 315px
+}
+.btn3{
+    margin-left: 165px;
+    background-color: #1662c6;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+.picthree{
+    width: 315px
+}
+.image3{
+    border-radius: 10px;
+}
+.firstligne{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 80px 250px;
+}
+.btn4{
+    margin-left: 165px;
+    background-color: #1662c6;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+.pic4{
+    width: 315px
+}
+.image4{
+    border-radius: 10px;
+}
+.btn5{
+    margin-left: 165px;
+    background-color: #1662c6;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+.pic5{
+    width: 315px
+}
+.image5{
+    border-radius: 10px;
+}
+.btn6{
+    margin-left: 165px;
+    background-color: #1662c6;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+.pic6{
+    width: 315px
+}
+.image6{
+    border-radius: 10px;
+}
+.otherligne{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 80px 250px;
+    box-shadow: ;
+}
+.lasttext{
+    padding: 30px 450px;
+    text-align: center;
+}
+.lasttext2{
+    padding: 0px 450px;
+    text-align: center;
+}
+.titrelast{
+    text-align: center;
+}
